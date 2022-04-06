@@ -10,3 +10,7 @@ python3 -m pip install --upgrade Pillow
 and
 
 pip install pysimplegui
+
+and
+
+pip install pynput
